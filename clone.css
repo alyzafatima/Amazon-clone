@@ -207,7 +207,7 @@
   }
   
   .main{
-      background-image: url(navbar\ image.jpg);
+      background-image: url(navbar.jpg);
       height: 400px;
       background-size: cover;
       display: flex;
